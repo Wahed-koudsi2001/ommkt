@@ -3509,9 +3509,34 @@ header.simpl .caption .btn-curve {
 }
 
 /* ====================== [ End Intro ] ====================== */
+
+.policy {
+  padding: 150px 0 50px;
+  text-align: right;
+}
+.policy h3 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.policy .main-content-policy h5 {
+  margin: 30px 0;
+}
+.policy .main-content-policy p {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+.policy .main-content-policy p a {
+  color: #a90a5b;
+}
+.policy .main-content-policy ul li {
+  list-style-type: circle !important;
+  list-style-position: inside;
+  margin-bottom: 15px;
+}
 /* ====================== [ Start services ] ====================== */
 .services {
   position: relative;
+  overflow: hidden;
 }
 .services .container {
   position: relative;
